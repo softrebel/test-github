@@ -1,2 +1,1 @@
-name = "ali"
-print("hello", name)
+print('hello')
